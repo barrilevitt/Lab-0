@@ -143,18 +143,6 @@ public class RobotInstructions  {
 		robot.forward(40);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 
 }
